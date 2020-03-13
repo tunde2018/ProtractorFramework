@@ -93,7 +93,7 @@ describe('demo calculator', function() {
         homepage.verifyResult('10');
 
 
-        browser.sleep(4000)
+        browser.sleep(5000)
 
     });
 
